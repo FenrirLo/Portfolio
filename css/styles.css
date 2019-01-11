@@ -11,3 +11,9 @@
   font-size: 15px;
   text-decoration: underline;
 }
+
+.pic {
+  margin: 3px;
+  border: 8px solid #bce8f1;
+  padding: 2px;
+}
