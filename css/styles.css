@@ -2,3 +2,7 @@
   float: right;
   width: 450px;
 }
+
+.panel-title {
+  font-size: 30px;
+}
