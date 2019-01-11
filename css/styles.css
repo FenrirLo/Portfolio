@@ -6,3 +6,8 @@
 .panel-title {
   font-size: 30px;
 }
+
+.special {
+  font-size: 15px;
+  text-decoration: underline;
+}
